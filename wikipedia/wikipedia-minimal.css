@@ -1,0 +1,18 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain(wikipedia.org), domain(wikibooks.org),
+    domain(wikiversity.org), domain(wiktionary.org), domain(wikiquote.org),
+    domain(wikisource.org), domain(wikimedia.org), domain(wikinews.org), 
+    domain(uncyclopedia.org) {
+    #content {
+        max-width: 32em !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        background-image: none !important;
+    }
+    body {
+        font-size: 1.2em !important;
+    }
+    .noprint, #footer, #centralNotice {
+        display: none !important;
+    }
+}

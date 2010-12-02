@@ -1,0 +1,5 @@
+* Removes everything except content
+* Reduces column size to around [12 words per line][1]
+* Increases font size slightly
+
+  [1]: http://webstyleguide.com/wsg3/7-page-design/6-page-width-line-length.html
