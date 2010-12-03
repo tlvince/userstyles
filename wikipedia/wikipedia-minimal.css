@@ -12,7 +12,10 @@
     body {
         font-size: 1.2em !important;
     }
-    .noprint, #footer, #centralNotice {
+    .reference {
+       font-size: 0.6em !important;
+    }
+    .noprint, .editsection, #footer, #centralNotice {
         display: none !important;
     }
 }
