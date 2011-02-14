@@ -1,0 +1,24 @@
+Youtube Minimal
+===============
+
+Removes various elements from the main video page, but leaves some features I
+deem useful (namely suggestions and queue).
+
+Removed elements
+----------------
+
+    #pagetop                    - Page header (logo, login links, search etc.)
+    #homepage-side-content      - Homepage side panel (ads)
+    #watch-panel                - Video stats, like buttons, comments
+    #footer-container           - Page footer
+    .first                      - "Suggestions"
+    #watch-branded-actions      - VEVO
+    #branded-playlist-module    - VEVO playlist
+    #ppv-container              - Featured Video's
+
+Usage
+-----
+
+Install using Stylish or browser User Script from the [userstyles.org][1] page.
+
+  [1]: http://userstyles.org/styles/

@@ -1,0 +1,7 @@
+/* Clean up page */
+#pagetop, #footer-container, #homepage-side-content, #watch-panel, .first, #watch-branded-actions, #branded-playlist-module, #ppv-container { display: none !important; }
+
+/* Unset VEVO background images and colours */
+body, #content { background: white !important; }
+#watch-headline-title { color: black !important; }
+#watch-username { color: blue !important; }
