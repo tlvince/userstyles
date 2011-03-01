@@ -1,7 +1,19 @@
-/* Clean up page */
-#pagetop, #footer-container, #homepage-side-content, #watch-panel, .first, #watch-branded-actions, #branded-playlist-module, #ppv-container { display: none !important; }
+/**
+ * Youtube Minimal
+ * Copyright 2011 Tom Vincent <http://www.tlvince.com/contact/>
+ *
+ * See: https://github.com/tlvince/userstyles/tree/master/youtube
+ */
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain(youtube.com) {
+    /* Clean up page */
+    #pagetop, #footer-container, #homepage-side-content, #watch-panel, .first,
+    #watch-branded-actions, #branded-playlist-module, #ppv-container {
+        display: none !important;
+    }
 
-/* Unset VEVO background images and colours */
-body, #content { background: white !important; }
-#watch-headline-title { color: black !important; }
-#watch-username { color: blue !important; }
+    /* Unset VEVO background images and colours */
+    body, #content { background: white !important; }
+    #watch-headline-title { color: black !important; }
+    #watch-username { color: blue !important; }
+}
