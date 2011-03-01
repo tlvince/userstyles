@@ -3,19 +3,32 @@
     domain(wikiversity.org), domain(wiktionary.org), domain(wikiquote.org),
     domain(wikisource.org), domain(wikimedia.org), domain(wikinews.org), 
     domain(uncyclopedia.org) {
+    body {
+        font-size: 1.2em !important;
+        background: none !important;
+    }
     #content {
-        max-width: 32em !important;
+        max-width: 24em;
         margin-left: auto !important;
         margin-right: auto !important;
         background-image: none !important;
-    }
-    body {
-        font-size: 1.2em !important;
-    }
-    .reference {
-       font-size: 0.6em !important;
+        padding: 0px !important;
     }
     .noprint, .editsection, #footer, #centralNotice {
-        display: none !important;
+        display: none;
+    }
+    .infobox {
+        float: none;
+        width: 0;
+        margin: 1em 3em;
+    }
+    .references, pre {
+        overflow: auto;
+    }
+    .reference {
+       font-size: 0.5em !important;
+    }
+    pre {
+        padding: 0 0 0.5em 0 !important;
     }
 }
