@@ -1,0 +1,11 @@
+DuckDuckGo
+==========
+
+In combination with URL parameters, clean the main results screen.
+
+Usage
+-----
+
+Install using Stylish or browser User Script from the [userstyles.org][1] page.
+
+  [1]: http://userstyles.org/styles/
