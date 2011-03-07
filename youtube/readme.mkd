@@ -21,4 +21,4 @@ Usage
 
 Install using Stylish or browser User Script from the [userstyles.org][1] page.
 
-  [1]: http://userstyles.org/styles/
+  [1]: http://userstyles.org/styles/44752
