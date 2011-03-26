@@ -1,11 +1,11 @@
 /**
- * Reddit Minimal
+ * Reddit Slim
  * Copyright 2011 Tom Vincent <http://www.tlvince.com/contact/>
  *
  * See: https://github.com/tlvince/userstyles/tree/master/reddit
  */
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain(reddit.com) {
-    .side, .footer-parent { display: none; }
+    .side, .footer-parent, .search-summary, #header-bottom-right { display: none; }
     body { padding-bottom: 10px; }
 }

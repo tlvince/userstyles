@@ -1,7 +1,7 @@
-Reddit Minimal
-==============
+Reddit Slim
+===========
 
-Remove the sidebar and footer.
+Small tweaks to make Reddit display better in narrower windows.
 
 Usage
 -----
