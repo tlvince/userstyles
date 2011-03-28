@@ -27,7 +27,7 @@
         display: none;
     }
     /* Add a scroll bar for elements that are likely to be too wide */
-    .references, pre {
+    pre {
         overflow: auto;
     }
     /* Shrink references */
@@ -50,5 +50,15 @@
     /* Expand to the width of the main content */
     .quotebox {
          width: auto;
+    }
+    /* http://en.wikipedia.org/wiki/Help:Reference_display_customization */
+    /* Disable columns for {{reflist}} and {{refbegin}} */
+    .references-column-count, .references-column-width {
+        column-count: 1 !important;
+        column-width: auto !important;
+        -moz-column-count: 1 !important;
+        -moz-column-width: auto !important;
+        -webkit-column-count: 1 !important;
+        -webkit-column-width: auto !important;
     }
 }
