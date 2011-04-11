@@ -6,6 +6,6 @@
  */
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain(duckduckgo.com) {
-    /* Logo and 'powered by' elements */
-    #hl, #rpb { display: none; }
+    /* Logo, 'powered by' and right-hand bar elements */
+    #hl, #rpb, #kr { display: none; }
 }
