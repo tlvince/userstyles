@@ -3,6 +3,10 @@ DuckDuckGo
 
 In combination with URL parameters, clean the main results screen.
 
+I use the following query string:
+
+    https://duckduckgo.com/?q=%s&ke=-1&kh=1&ko=s&kr=c&ka=n&kk=l&k1=-1
+
 Usage
 -----
 
