@@ -39,7 +39,7 @@
         padding: 0 0 0.5em !important;
     }
     /* Centre most non-textual elements */
-    .metadata, .thumb, .thumbinner, table, .quotebox {
+    .metadata, .thumb, .thumbinner, table, .quotebox, .tracklist {
         float: none !important;
         margin: auto !important;
     }
