@@ -6,6 +6,12 @@
  */
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain(duckduckgo.com) {
-    /* Logo, 'powered by' and right-hand bar elements */
-    #hl, #rpb, #kr { display: none; }
+    /* Remove header and 'powered by */
+    #hw, #rpb { display: none; }
+
+    /* Reset results padding */
+    #c2 { padding: 0 ;}
+
+    /* Centre results */
+    #rpr, #r12 { margin-left: auto; margin-right: auto; }
 }
