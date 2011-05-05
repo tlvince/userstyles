@@ -1,0 +1,41 @@
+/**
+ * Readability tweaks
+ * Copyright 2011 Tom Vincent <http://www.tlvince.com/contact/>
+ */
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain(www.readability.com) {
+    /* Hide subscription banner */
+    #legacy-bkmk {
+        display: none;
+    }
+
+    /* Hide share links */
+    #archive-link-wrap {
+        display: none;
+    }
+
+    /* Read later button */
+    a.button-chrome {
+        display: none;
+    }
+
+    /* Reset content padding */
+    #rdb-content {
+        padding-left: 0;
+    }
+
+    /* Hide sidebar image */
+    body {
+        background-image: none;
+    }
+
+    /* Hide sidebar buttons */
+    #rdb-article-tools, #sidebar-hide-link, #logo {
+        display: none;
+    }
+
+    /* Slightly narrower content */
+    #rdb-article {
+        width: 60%;
+    }
+}

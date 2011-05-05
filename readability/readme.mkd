@@ -1,0 +1,11 @@
+Readability
+===========
+
+A lot has changed since the relaunch of [Readability][1]. I still use the legacy
+[Readability bookmarklet][2], which defaults to the "newspaper" theme.
+
+This userstyle hides some (newly introduced) elements (banners, buttons,
+sidebar) for even *less* visual distraction.
+
+  [1]: https://www.readability.com/
+  [2]: https://www.readability.com/bookmarklets
