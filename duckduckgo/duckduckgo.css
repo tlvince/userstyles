@@ -14,4 +14,7 @@
 
     /* Centre results */
     #rpr, #r12 { margin-left: auto; margin-right: auto; }
+
+    /* Remove horizontal scrollbar */
+    #cw { min-width: 0; }
 }
