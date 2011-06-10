@@ -6,8 +6,8 @@
  */
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain(duckduckgo.com) {
-    /* Remove header and 'powered by */
-    #hw, #rpb { display: none; }
+    /* Remove header, 'powered by' and search ideas */
+    #hw, #rpb, #r3b { display: none; }
 
     /* Reset results padding */
     #c2 { padding: 0 ;}
