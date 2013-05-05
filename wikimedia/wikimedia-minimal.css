@@ -1,18 +1,10 @@
-#mw-mf-header {
+#mw-mf-header, #footer, #mw-mf-last-modified {
     display: none;
 }
 
 body {
     margin: 0 25%;
     font-size: 125%;
-}
-
-#footer {
-    display: none;
-}
-
-#mw-mf-last-modified {
-    display: none;
 }
 
 sup.reference a {
