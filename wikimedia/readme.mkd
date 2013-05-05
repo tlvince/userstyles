@@ -8,10 +8,11 @@ Tweaks mobile versions of Wikimedia sites (Wikipedia et al.):
 
 ## Usage
 
-Install using Stylebot with the following URL pattern:
+Install using [Stylebot][2] or manually with the following URL pattern:
 
     m.wikipedia.org, m.wikibooks.org, m.wikiversity.org, m.wiktionary.org,
     m.wikiquote.org, m.wikisource.org, m.wikimedia.org, m.wikinews.org,
     m.wikivoyage.org
 
   [1]: http://webstyleguide.com/wsg3/7-page-design/6-page-width-line-length.html
+  [2]: http://stylebot.me/styles/244
