@@ -1,19 +1,31 @@
-/**
- * Youtube Minimal
- * Copyright 2011 Tom Vincent <http://www.tlvince.com/contact/>
- *
- * See: https://github.com/tlvince/userstyles/tree/master/youtube
- */
-@namespace url(http://www.w3.org/1999/xhtml);
-@-moz-document domain(youtube.com) {
-    /* Clean up page */
-    #pagetop, #footer-container, #homepage-side-content, #watch-panel, .first,
-    #watch-branded-actions, #branded-playlist-module, #ppv-container {
-        display: none !important;
-    }
+div.yt-grid-box, div.yt-alert.yt-alert-default.yt-alert-info,
+div.collapsible-guide, #watch-discussion, #footer-container,
+div.guide-module-content.yt-scrollbar, div.secondary-col, #watch7-branded-banner {
+    display: none;
+}
 
-    /* Unset VEVO background images and colours */
-    body, #content { background: white !important; }
-    #watch-headline-title { color: black !important; }
-    #watch-username { color: blue !important; }
+#player-api {
+    width: 100%;
+}
+
+body {
+    padding: 0 23%;
+}
+
+#player {
+    padding-left: 150px;
+    background: none;
+}
+
+#watch7-main-container {
+    margin-left: -150px;
+    margin-top: 25px;
+}
+
+#watch7-sidebar {
+    margin-top: 0;
+}
+
+#page-container {
+    margin-left: -150px;
 }
