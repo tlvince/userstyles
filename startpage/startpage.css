@@ -1,0 +1,16 @@
+#sponsored, #search, #logo, #results_count_p, #tip, .date_promo, #show_hide, #bottom_input_p, #within, #footer_links {
+    display: none;
+}
+
+#side_bar {
+    position: static;
+}
+
+body {
+    background: white;
+    padding-bottom: 25px;
+}
+
+#results, #tod_wrap, #by_time {
+    border: none;
+}

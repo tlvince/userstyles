@@ -1,0 +1,18 @@
+# Startpage Minimal
+
+## Usage
+
+Install using [Stylebot][2] or manually with the following URL pattern:
+
+    startpage.com
+
+## FAQ
+
+> How do I search?
+
+Use your browser's address bar. Add the following search URL:
+
+    https://startpage.com/do/search?query=%s
+
+  [1]: http://webstyleguide.com/wsg3/7-page-design/6-page-width-line-length.html
+  [2]: http://stylebot.me/styles/2397
