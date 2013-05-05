@@ -14,5 +14,14 @@ Install using [Stylebot][2] or manually with the following URL pattern:
     m.wikiquote.org, m.wikisource.org, m.wikimedia.org, m.wikinews.org,
     m.wikivoyage.org
 
+## FAQ
+
+> How do I search?
+
+Use your browser's address bar. Add the following search URL (adapted for each
+Wikimedia site):
+
+    https://en.m.wikipedia.org/wiki/Special:Search?search=%s
+
   [1]: http://webstyleguide.com/wsg3/7-page-design/6-page-width-line-length.html
   [2]: http://stylebot.me/styles/244
