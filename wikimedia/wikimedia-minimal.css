@@ -10,3 +10,7 @@ body {
 sup.reference a {
     font-size: 75%;
 }
+
+.mf-notification {
+    width: 50%;
+}
