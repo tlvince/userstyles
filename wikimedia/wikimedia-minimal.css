@@ -2,8 +2,11 @@
     display: none;
 }
 
-body {
+body, .mw-mf-overlay {
     margin: 0 25%;
+}
+
+body {
     font-size: 125%;
 }
 
