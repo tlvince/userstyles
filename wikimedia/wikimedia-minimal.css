@@ -1,0 +1,20 @@
+#mw-mf-header {
+    display: none;
+}
+
+body {
+    margin: 0 25%;
+    font-size: 125%;
+}
+
+#footer {
+    display: none;
+}
+
+#mw-mf-last-modified {
+    display: none;
+}
+
+sup.reference a {
+    font-size: 75%;
+}

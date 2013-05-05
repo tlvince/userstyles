@@ -1,0 +1,17 @@
+# Wikimedia Minimal
+
+Tweaks mobile versions of Wikimedia sites (Wikipedia et al.):
+
+* Removes everything except content
+* Reduces column size to around [12 words per line][1]
+* Increases font size slightly
+
+## Usage
+
+Install using Stylebot with the following URL pattern:
+
+    m.wikipedia.org, m.wikibooks.org, m.wikiversity.org, m.wiktionary.org,
+    m.wikiquote.org, m.wikisource.org, m.wikimedia.org, m.wikinews.org,
+    m.wikivoyage.org
+
+  [1]: http://webstyleguide.com/wsg3/7-page-design/6-page-width-line-length.html
