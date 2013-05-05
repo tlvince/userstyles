@@ -24,4 +24,4 @@ Wikimedia site):
     https://en.m.wikipedia.org/wiki/Special:Search?search=%s
 
   [1]: http://webstyleguide.com/wsg3/7-page-design/6-page-width-line-length.html
-  [2]: http://stylebot.me/styles/244
+  [2]: http://stylebot.me/styles/2395
