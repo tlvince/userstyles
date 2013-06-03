@@ -1,3 +1,11 @@
 # Userstyles
 
 Customised website stylesheets, organised by domain (sans TLD).
+
+## Author
+
+© 2010-2013 Tom Vincent <http://tlvince.com/contact>
+
+## License
+
+Released under the [MIT License](http://tlvince.mit-license.org/).
