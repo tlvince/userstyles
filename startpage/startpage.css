@@ -1,5 +1,6 @@
-#sponsored, #search, #logo, #results_count_p, #tip, .date_promo, #show_hide,
-#bottom_input_p, #within, #footer_links, #try_ixquick_promo_box {
+#sponsored, #logo, #results_count_p, #tip, .date_promo, #show_hide,
+#bottom_input_p, #within, #footer_links, #try_ixquick_promo_box, #enhanced,
+#submit1 {
     display: none;
 }
 
