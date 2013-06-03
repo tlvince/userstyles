@@ -1,6 +1,6 @@
 #sponsored, #logo, #results_count_p, #tip, .date_promo, #show_hide,
 #bottom_input_p, #within, #footer_links, #try_ixquick_promo_box, #enhanced,
-#submit1 {
+#submit1, .head2, #sponsored_container {
     display: none;
 }
 
@@ -15,4 +15,9 @@ body {
 
 #results, #tod_wrap, #by_time {
     border: none;
+}
+
+#results > #sponsored {
+    display: block;
+    padding-bottom: 24px;
 }
